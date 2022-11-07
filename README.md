@@ -12,7 +12,7 @@
 <body>
     <div align="center">
         <img align="left" style="padding : 5px;"src="https://cdn.discordapp.com/attachments/942420868846460993/1039150706352996352/gd.jpg" />
-        <div>최문찬</div>
+        <a>Name : 최문찬</a>
     </div>
 </body>
 </html> 
