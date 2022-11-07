@@ -26,7 +26,11 @@
           </tr>
           <tr>
             <td>Python</td>
+          </tr>
+          <tr>
             <td>Java</td>
+          </tr>
+          <tr>
             <td>Mysql</td>
           </tr>
         </table>
