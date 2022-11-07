@@ -10,6 +10,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <img src="https://cdn.discordapp.com/attachments/942420868846460993/1039150058060382318/P20220224_141609000_114EA420-BD94-4940-BE90-22F7955BEE42.JPG" />
+    <img src="https://cdn.discordapp.com/attachments/942420868846460993/1039150501159256074/gd.jpg" />
 </body>
 </html> 
