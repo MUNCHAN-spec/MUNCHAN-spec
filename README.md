@@ -20,8 +20,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <body>
-        <ul>
-            <li>[2022] 방과후 Intel BrainAi 참여(컴퓨터 비전을 활용 하여 옷 사이즈 자동 맞춤 프로젝트 개발)</li>
-        </ul>
+        <table>
+          <tr>
+            <th>Language & Framework</th>
+          </tr>
+          <tr>
+            <td>Python</td>
+            <td>Java</td>
+            <td>Mysql</td>
+          </tr>
+        </table>
     </body>
 </html>
