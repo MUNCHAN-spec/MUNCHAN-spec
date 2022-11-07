@@ -20,19 +20,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <body>
-        <table>
-          <tr>
-            <th>Language & Framework</th>
-          </tr>
-          <tr>
-            <td>Python</td>
-          </tr>
-          <tr>
-            <td>Java</td>
-          </tr>
-          <tr>
-            <td>Mysql</td>
-          </tr>
-        </table>
+        파이썬, 자바, Sql
     </body>
 </html>
