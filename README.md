@@ -1,19 +1,3 @@
-<!--### Hi there 👋
-
-
-**MUNCHAN-spec/MUNCHAN-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +5,47 @@ Here are some ideas to get you started:
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
+<style>
+    table.type03 {
+      border-collapse: collapse;
+      text-align: left;
+      line-height: 1.5;
+      border-top: 1px solid #ccc;
+      border-left: 3px solid #369;
+      margin : 20px 10px;
+    }
+    table.type03 th {
+      width: 147px;
+      padding: 10px;
+      font-weight: bold;
+      vertical-align: top;
+      color: #153d73;
+      border-right: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+
+    }
+    table.type03 td {
+      width: 349px;
+      padding: 10px;
+      vertical-align: top;
+      border-right: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+    }
+</style>
 <body>
-    ㅎㅇ
+    <table class="type03">
+      <tr>
+        <th scope="row">항목명</th>
+        <td>내용이 들어갑니다.</td>
+      </tr>
+      <tr>
+        <th scope="row">항목명</th>
+        <td>내용이 들어갑니다.</td>
+      </tr>
+      <tr>
+        <th scope="row">항목명</th>
+        <td>내용이 들어갑니다.</td>
+      </tr>
+    </table>
 </body>
 </html>
