@@ -12,7 +12,11 @@
 <body>
     <div>
         <img align="left" style="padding : 5px;"src="https://cdn.discordapp.com/attachments/942420868846460993/1039150706352996352/gd.jpg" />
-        <a align="left" >Name : 최문찬</a>
+        <div style="font-family: 'TmoneyRoundWindExtraBold'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/TmoneyRoundWindExtraBold.woff') format('woff'); font-weight: normal; font-style: normal;">
+            <a align="left" >Name : 최문찬</a>
+            <a align="left" >Age : 17</a>
+        </div>
+       
     </div>
 </body>
 </html> 
