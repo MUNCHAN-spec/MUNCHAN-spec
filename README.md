@@ -21,5 +21,6 @@
 </body>
 </html> 
  -->
- 
- # My Skills!
+ <div align="center">
+     # My Skills!
+ </div>
