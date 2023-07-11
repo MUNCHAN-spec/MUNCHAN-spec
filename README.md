@@ -1,2 +1,1 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=Welcome!&desc=My%20GitHub%20Profile!&type=waving)
-
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
